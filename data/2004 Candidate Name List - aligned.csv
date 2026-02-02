@@ -1,0 +1,317 @@
+Office                                                , District, Party, Candidate Name              , Data Column Name
+President/Vice President                              ,         , D    , "Kerry, John F."            , D_PRES
+President/Vice President                              ,         , R    , "Bush, George W."           , R_PRES
+President/Vice President                              ,         , Other, "Badnarik, Michael "        , I1_PRES
+President/Vice President                              ,         , Other, "Peroutka, Michael Anthony" , I2_PRES
+U.S. Senate                                           ,         , D    , "Fingerhut, Eric D."        , D_USSEN
+U.S. Senate                                           ,         , R    , "Voinovich, George V."      , R_USSEN
+U.S. Representative                                   ,        1, D    , "Harris, Greg "             , D_CONG
+U.S. Representative                                   ,        1, R    , "Chabot, Steve "            , R_CONG
+U.S. Representative                                   ,        2, D    , "Sanders, Charles W."       , D_CONG
+U.S. Representative                                   ,        2, R    , "Portman, Rob "             , R_CONG
+U.S. Representative                                   ,        3, D    , "Mitakides, Jane "          , D_CONG
+U.S. Representative                                   ,        3, R    , "Turner, Mike "             , R_CONG
+U.S. Representative                                   ,        4, D    , "Konop, Ben "               , D_CONG
+U.S. Representative                                   ,        4, R    , "Oxley, Michael G."         , R_CONG
+U.S. Representative                                   ,        5, D    , "Weirauch, Robin "          , D_CONG
+U.S. Representative                                   ,        5, R    , "Gillmor, Paul E."          , R_CONG
+U.S. Representative                                   ,        6, D    , "Strickland, Ted "          , D_CONG
+U.S. Representative                                   ,        7, D    , "Anastasio, Kara "          , D_CONG
+U.S. Representative                                   ,        7, R    , "Hobson, Dave "             , R_CONG
+U.S. Representative                                   ,        8, D    , "Hardenbrook, Jeff "        , D_CONG
+U.S. Representative                                   ,        8, R    , "Boehner, John A."          , R_CONG
+U.S. Representative                                   ,        9, D    , "Kaptur, Marcy "            , D_CONG
+U.S. Representative                                   ,        9, R    , "Kaczala, Larry A."         , R_CONG
+U.S. Representative                                   ,       10, D    , "Kucinich, Dennis J."       , D_CONG
+U.S. Representative                                   ,       10, R    , "Herman, Edward Fitzpatrick", R_CONG
+U.S. Representative                                   ,       10,      , "Ferris, Barbara Anne"      , I1_CONG
+U.S. Representative                                   ,       11, D    , "Tubbs Jones, Stephanie "   , D_CONG
+U.S. Representative                                   ,       12, D    , "Brown, Edward S."          , D_CONG
+U.S. Representative                                   ,       12, R    , "Tiberi, Pat "              , R_CONG
+U.S. Representative                                   ,       13, D    , "Brown, Sherrod "           , D_CONG
+U.S. Representative                                   ,       13, R    , "Lucas, Robert "            , R_CONG
+U.S. Representative                                   ,       14, D    , "Cafaro, Capri S."          , D_CONG
+U.S. Representative                                   ,       14, R    , "Latourette, Steven C."     , R_CONG
+U.S. Representative                                   ,       15, D    , "Brown, Mark P."            , D_CONG
+U.S. Representative                                   ,       15, R    , "Pryce, Deborah "           , R_CONG
+U.S. Representative                                   ,       16, D    , "Seemann, Jeff "            , D_CONG
+U.S. Representative                                   ,       16, R    , "Regula, Ralph "            , R_CONG
+U.S. Representative                                   ,       17, D    , "Ryan, Tim "                , D_CONG
+U.S. Representative                                   ,       17, R    , "Cusimano, Frank V."        , R_CONG
+U.S. Representative                                   ,       18, D    , "Thomas, Brian R."          , D_CONG
+U.S. Representative                                   ,       18, R    , "Ney, Bob "                 , R_CONG
+State Senate                                          ,        2, D    , "Nickens, Nathan "          , D_STSEN
+State Senate                                          ,        2, R    , "Gardner, Randy "           , R_STSEN
+State Senate                                          ,        4, D    , "Smith, Melvin A."          , D_STSEN
+State Senate                                          ,        4, R    , "Cates, Gary "              , R_STSEN
+State Senate                                          ,        6, D    , "Stanton, Jason A."         , D_STSEN
+State Senate                                          ,        6, R    , "Jacobson, Jeff "           , R_STSEN
+State Senate                                          ,        8, D    , "Harrison, Jeannette "      , D_STSEN
+State Senate                                          ,        8, R    , "Clancy, Patricia M."       , R_STSEN
+State Senate                                          ,       10, D    , "Hart, Charles E."          , D_STSEN
+State Senate                                          ,       10, R    , "Austria, Steve "           , R_STSEN
+State Senate                                          ,       12, R    , "Jordan, Jim "              , R_STSEN
+State Senate                                          ,       12,      , "Kaffenberger, Sr. Jack "   , I1_STSEN
+State Senate                                          ,       14, D    , "Schwietering, Paul "       , D_STSEN
+State Senate                                          ,       14, R    , "Niehaus, Tom "             , R_STSEN
+State Senate                                          ,       16, D    , "Thomsen, Katherine "       , D_STSEN
+State Senate                                          ,       16, R    , "Stivers, Steve "           , R_STSEN
+State Senate                                          ,       16,      , "Eckhart, Don "             , I1_STSEN
+State Senate                                          ,       18, D    , "Hawkins, John "            , D_STSEN
+State Senate                                          ,       18, R    , "Grendell, Timothy J."      , R_STSEN
+State Senate                                          ,       20, D    , "Anderson, Terry "          , D_STSEN
+State Senate                                          ,       20, R    , "Padgett, Joy "             , R_STSEN
+State Senate                                          ,       22, R    , "Amstutz, Ron "             , R_STSEN
+State Senate                                          ,       24, D    , "Matius, Robert "           , D_STSEN
+State Senate                                          ,       24, R    , "Spada, Bob "               , R_STSEN
+State Senate                                          ,       26, R    , "Mumper, Larry "            , R_STSEN
+State Senate                                          ,       28, D    , "Zurz, Kimberly A."         , D_STSEN
+State Senate                                          ,       28, R    , "Fowler, Kevin M."          , R_STSEN
+State Senate                                          ,       30, D    , "Wilson, Charlie "          , D_STSEN
+State Senate                                          ,       30, R    , "Wilkes, Michael S."        , R_STSEN
+State Senate                                          ,       32, D    , "Dann, Marc "               , D_STSEN
+State Senate                                          ,       32, R    , "Pasqualone, Gary L."       , R_STSEN
+State Representative                                  ,        1, D    , "Rayl, Jr. Frank E."        , D_STREP
+State Representative                                  ,        1, R    , "Blasdel, Chuck "           , R_STREP
+State Representative                                  ,        2, D    , "Burner, Cathy "            , D_STREP
+State Representative                                  ,        2, R    , "Peterson, Jon "            , R_STREP
+State Representative                                  ,        3, D    , "Bradley, Joan E."          , D_STREP
+State Representative                                  ,        3, R    , "Carmichael, Jim "          , R_STREP
+State Representative                                  ,        4, R    , "Willamowski, John R."      , R_STREP
+State Representative                                  ,        5, R    , "Schaffer, Tim "            , R_STREP
+State Representative                                  ,        6, D    , "Mccarty, Scott R."         , D_STREP
+State Representative                                  ,        6, R    , "Latta, Robert E."          , R_STREP
+State Representative                                  ,        7, D    , "Yuko, Kenny "              , D_STREP
+State Representative                                  ,        7, R    , "Valencic, Beverly "        , R_STREP
+State Representative                                  ,        8, D    , "Mason, Lance T."           , D_STREP
+State Representative                                  ,        9, D    , "Woodard, Claudette J."     , D_STREP
+State Representative                                  ,       10, D    , "Smith, Shirley A."         , D_STREP
+State Representative                                  ,       11, D    , "Key, Annie L."             , D_STREP
+State Representative                                  ,       12, D    , "Debose, Michael "          , D_STREP
+State Representative                                  ,       12, R    , "Cefaratti, Anthony "       , R_STREP
+State Representative                                  ,       13, D    , "Skindell, Michael J."      , D_STREP
+State Representative                                  ,       14, D    , "Miller, Dale "             , D_STREP
+State Representative                                  ,       14,      , "Ritter, Bill "             , I1_STREP
+State Representative                                  ,       15, D    , "Degeeter, Timothy J."      , D_STREP
+State Representative                                  ,       15,      , "Stys, Michelle "           , I1_STREP
+State Representative                                  ,       16, D    , "Kennedy, Kevin "           , D_STREP
+State Representative                                  ,       16, R    , "Kilbane, Sally Conway"     , R_STREP
+State Representative                                  ,       16,      , "Glassburn, Chris "         , I1_STREP
+State Representative                                  ,       17, D    , "Pomerantz, David "         , D_STREP
+State Representative                                  ,       17, R    , "Trakas, James Peter"       , R_STREP
+State Representative                                  ,       18, D    , "Bland, Bobby "             , D_STREP
+State Representative                                  ,       18, R    , "Patton, Thomas F."         , R_STREP
+State Representative                                  ,       19, D    , "Wright, Antoine "          , D_STREP
+State Representative                                  ,       19, R    , "Flowers, Larry L."         , R_STREP
+State Representative                                  ,       19,      , "Otten, Jr. Richard W."     , I1_STREP
+State Representative                                  ,       20, D    , "Murdock, Michael J."       , D_STREP
+State Representative                                  ,       20, R    , "Mcgregor, Jim "            , R_STREP
+State Representative                                  ,       21, D    , "Ottolenghi, Abramo "       , D_STREP
+State Representative                                  ,       21, R    , "Reidelbach, Linda "        , R_STREP
+State Representative                                  ,       22, D    , "Mccann, Brian "            , D_STREP
+State Representative                                  ,       22, R    , "Hughes, Jim "              , R_STREP
+State Representative                                  ,       23, R    , "Wolpert, Larry "           , R_STREP
+State Representative                                  ,       24, R    , "Smith, Geoffrey C."        , R_STREP
+State Representative                                  ,       24,      , "Byrne, Pat "               , I1_STREP
+State Representative                                  ,       25, D    , "Stewart, Daniel "          , D_STREP
+State Representative                                  ,       25, R    , "Bowers, Andy "             , R_STREP
+State Representative                                  ,       26, D    , "Mitchell, Mike "           , D_STREP
+State Representative                                  ,       27, D    , "Beatty, Joyce "            , D_STREP
+State Representative                                  ,       28, D    , "Coates, Wayne "            , D_STREP
+State Representative                                  ,       28, R    , "Raussen, Jim "             , R_STREP
+State Representative                                  ,       29, D    , "Wolterman, Joseph R."      , D_STREP
+State Representative                                  ,       29, R    , "Blessing, Jr. Louis W."    , R_STREP
+State Representative                                  ,       30, D    , "Thompson, Ann "            , D_STREP
+State Representative                                  ,       30, R    , "Seitz, William J."         , R_STREP
+State Representative                                  ,       31, D    , "Driehaus, Steve "          , D_STREP
+State Representative                                  ,       31, R    , "Weber, Terry "             , R_STREP
+State Representative                                  ,       32, D    , "Barrett, Catherine L."     , D_STREP
+State Representative                                  ,       33, D    , "Yates, Tyrone K."          , D_STREP
+State Representative                                  ,       33, R    , "Jones, Tom "               , R_STREP
+State Representative                                  ,       34, D    , "Miller, Glen "             , D_STREP
+State Representative                                  ,       34, R    , "Brinkman, Jr. Tom "        , R_STREP
+State Representative                                  ,       35, D    , "Miller, Brian "            , D_STREP
+State Representative                                  ,       35, R    , "Schneider, Michelle G."    , R_STREP
+State Representative                                  ,       36, D    , "Smith, Beverly H."         , D_STREP
+State Representative                                  ,       36, R    , "Setzer, Arlene J."         , R_STREP
+State Representative                                  ,       37, D    , "Shady, John G."            , D_STREP
+State Representative                                  ,       37, R    , "Husted, Jon A."            , R_STREP
+State Representative                                  ,       38, D    , "Doll, John R."             , D_STREP
+State Representative                                  ,       38, R    , "White, John J."            , R_STREP
+State Representative                                  ,       39, D    , "Allen, Dixie J."           , D_STREP
+State Representative                                  ,       39, R    , "Muhammed, Armiya "         , R_STREP
+State Representative                                  ,       39,      , "Hallmark, Jason M."        , I1_STREP
+State Representative                                  ,       39,      , "Martinez, Logan "          , I2_STREP
+State Representative                                  ,       40, D    , "Strahorn, Fred "           , D_STREP
+State Representative                                  ,       40, R    , "Jones, Glenn "             , R_STREP
+State Representative                                  ,       41, D    , "Williams, Brian G."        , D_STREP
+State Representative                                  ,       41, R    , "Slaby, Marilyn "           , R_STREP
+State Representative                                  ,       42, D    , "Colavecchio, Diana "       , D_STREP
+State Representative                                  ,       42, R    , "Widowfield, John "         , R_STREP
+State Representative                                  ,       43, D    , "Tabor-Grimm, Jane "        , D_STREP
+State Representative                                  ,       43, R    , "Taylor, Mary "             , R_STREP
+State Representative                                  ,       44, D    , "Sykes, Barbara "           , D_STREP
+State Representative                                  ,       45, D    , "Otterman, Robert J."       , D_STREP
+State Representative                                  ,       45, R    , "Longshore, Don "           , R_STREP
+State Representative                                  ,       46, D    , "Greeley, Nancy Patrick"    , D_STREP
+State Representative                                  ,       46, R    , "Wagoner, Mark "            , R_STREP
+State Representative                                  ,       47, D    , "Ujvagi, Peter "            , D_STREP
+State Representative                                  ,       47, R    , "Goulding, Michael R."      , R_STREP
+State Representative                                  ,       48, D    , "Brown, Edna "              , D_STREP
+State Representative                                  ,       49, D    , "Perry, Jeanine "           , D_STREP
+State Representative                                  ,       49, R    , "Myers, Christopher "       , R_STREP
+State Representative                                  ,       50, D    , "Olson, Martin "            , D_STREP
+State Representative                                  ,       50, R    , "Hagan, John P."            , R_STREP
+State Representative                                  ,       51, R    , "Oelslager, Scott "         , R_STREP
+State Representative                                  ,       52, D    , "Healy, Ii William J."      , D_STREP
+State Representative                                  ,       52, R    , "Patterson, Mandwel D."     , R_STREP
+State Representative                                  ,       53, D    , "Siebel, Scott "            , D_STREP
+State Representative                                  ,       53, R    , "Webster, Shawn N."         , R_STREP
+State Representative                                  ,       54, R    , "Combs, Courtney E."        , R_STREP
+State Representative                                  ,       55, D    , "Sims, Tyrone "             , D_STREP
+State Representative                                  ,       55, R    , "Coley, Bill "              , R_STREP
+State Representative                                  ,       56, D    , "Koziura, Joseph F."        , D_STREP
+State Representative                                  ,       56, R    , "Williamson, Daniel Jack"   , R_STREP
+State Representative                                  ,       57, D    , "Hill, Deanna L."           , D_STREP
+State Representative                                  ,       57, R    , "Martin, Earl J."           , R_STREP
+State Representative                                  ,       57,      , "Prechtel, Kenneth "        , I1_STREP
+State Representative                                  ,       58, D    , "Barrett, Matthew "         , D_STREP
+State Representative                                  ,       58, R    , "Walcher, Kathleen L."      , R_STREP
+State Representative                                  ,       59, D    , "Carano, Sr. Kenneth A."    , D_STREP
+State Representative                                  ,       59, R    , "Miller, Kathy "            , R_STREP
+State Representative                                  ,       60, D    , "Patton, Sylvester "        , D_STREP
+State Representative                                  ,       60, R    , "Keller, Nicolas "          , R_STREP
+State Representative                                  ,       61, D    , "Boccieri, John A."         , D_STREP
+State Representative                                  ,       61, R    , "Pope, Randy "              , R_STREP
+State Representative                                  ,       62, D    , "Fende, Lorraine M."        , D_STREP
+State Representative                                  ,       62, R    , "Galloway, Christopher A."  , R_STREP
+State Representative                                  ,       63, D    , "Cassell, Timothy J."       , D_STREP
+State Representative                                  ,       63, R    , "Kresnye, B.J. "            , R_STREP
+State Representative                                  ,       64, D    , "Sferra, Daniel J."         , D_STREP
+State Representative                                  ,       64, R    , "Law, Randy "               , R_STREP
+State Representative                                  ,       65, D    , "Harwood, Sandra Stabile"   , D_STREP
+State Representative                                  ,       65, R    , "Johnson, Don "             , R_STREP
+State Representative                                  ,       66, R    , "Uecker, Joseph "           , R_STREP
+State Representative                                  ,       67, R    , "Raga, Tom "                , R_STREP
+State Representative                                  ,       68, D    , "Chandler, Kathleen "       , D_STREP
+State Representative                                  ,       68, R    , "Manning, Andrew "          , R_STREP
+State Representative                                  ,       69, D    , "Betti, Tom "               , D_STREP
+State Representative                                  ,       69, R    , "Calvert, Charles E."       , R_STREP
+State Representative                                  ,       70, D    , "Gordon, Lawrence W."       , D_STREP
+State Representative                                  ,       70, R    , "Dewine, Kevin "            , R_STREP
+State Representative                                  ,       71, D    , "Judge, Geoffrey "          , D_STREP
+State Representative                                  ,       71, R    , "Evans, David R."           , R_STREP
+State Representative                                  ,       72, D    , "Spangler, Richard G."      , D_STREP
+State Representative                                  ,       72, R    , "Kearns, Merle Grace"       , R_STREP
+State Representative                                  ,       73, D    , "Hartnett, William J."      , D_STREP
+State Representative                                  ,       74, R    , "Buehrer, Stephen P."       , R_STREP
+State Representative                                  ,       75, D    , "Nienberg, Ben A."          , D_STREP
+State Representative                                  ,       75, R    , "Hoops, James M."           , R_STREP
+State Representative                                  ,       76, D    , "Ludwig, Kenneth J."        , D_STREP
+State Representative                                  ,       76, R    , "Gilb, Michael E."          , R_STREP
+State Representative                                  ,       77, D    , "Marshall, Betsy "          , D_STREP
+State Representative                                  ,       77, R    , "Faber, Keith L."           , R_STREP
+State Representative                                  ,       78, D    , "Seaver, Derrick "          , D_STREP
+State Representative                                  ,       79, D    , "Fisher, Dave W."           , D_STREP
+State Representative                                  ,       79, R    , "Fessler, Diana "           , R_STREP
+State Representative                                  ,       80, D    , "Redfern, Chris "           , D_STREP
+State Representative                                  ,       81, D    , "Farrell, William L."       , D_STREP
+State Representative                                  ,       81, R    , "Wagner, Jeff "             , R_STREP
+State Representative                                  ,       82, D    , "Combs, David A."           , D_STREP
+State Representative                                  ,       82, R    , "Reinhard, Stephen "        , R_STREP
+State Representative                                  ,       83, D    , "Lane, Geoff "              , D_STREP
+State Representative                                  ,       83, R    , "Core, Anthony E."          , R_STREP
+State Representative                                  ,       84, D    , "Eby, William "             , D_STREP
+State Representative                                  ,       84, R    , "Widener, Chris "           , R_STREP
+State Representative                                  ,       85, D    , "Cunningham, Chad M."       , D_STREP
+State Representative                                  ,       85, R    , "Schlichter, John M."       , R_STREP
+State Representative                                  ,       86, D    , "Horne, Bill "              , D_STREP
+State Representative                                  ,       86, R    , "Daniels, David T."         , R_STREP
+State Representative                                  ,       87, D    , "Roberts, Ii Philip M."     , D_STREP
+State Representative                                  ,       87, R    , "Evans, Clyde "             , R_STREP
+State Representative                                  ,       88, D    , "Richardson, Cy "           , D_STREP
+State Representative                                  ,       88, R    , "Bubp, Danny R."            , R_STREP
+State Representative                                  ,       89, D    , "Book, Todd "               , D_STREP
+State Representative                                  ,       89, R    , "Holt, Richard S."          , R_STREP
+State Representative                                  ,       90, D    , "Grassbaugh, Duane "        , D_STREP
+State Representative                                  ,       90, R    , "Collier, Thom "            , R_STREP
+State Representative                                  ,       91, D    , "Dodd, Dan "                , D_STREP
+State Representative                                  ,       91, R    , "Hood, Ron "                , R_STREP
+State Representative                                  ,       92, D    , "Lang, Pat "                , D_STREP
+State Representative                                  ,       92, R    , "Stewart, Jimmy "           , R_STREP
+State Representative                                  ,       93, D    , "Garrison, Jennifer "       , D_STREP
+State Representative                                  ,       93, R    , "Hollister, Nancy P."       , R_STREP
+State Representative                                  ,       94, R    , "Aslanides, Jim "           , R_STREP
+State Representative                                  ,       95, D    , "Domenick, John "           , D_STREP
+State Representative                                  ,       95, R    , "Lanaghan, Patrick "        , R_STREP
+State Representative                                  ,       96, D    , "Sayre, Allan R."           , D_STREP
+State Representative                                  ,       96, R    , "Gerber, Tom "              , R_STREP
+State Representative                                  ,       97, D    , "Mason, Thomas L."          , D_STREP
+State Representative                                  ,       97, R    , "Gibbs, Bob "               , R_STREP
+State Representative                                  ,       98, D    , "Dombek, Dan "              , D_STREP
+State Representative                                  ,       98, R    , "Dolan, Matthew J."         , R_STREP
+State Representative                                  ,       99, D    , "Distel, L. George "        , D_STREP
+State Representative                                  ,       99, R    , "Pikor, Jr. Bill "          , R_STREP
+State Board Of Education                              ,        1,      , "Green, Eric J."            , BofEd_1
+State Board Of Education                              ,        1,      , "Harrold, Lou Ann "         , BofEd_2
+State Board Of Education                              ,        1,      , "Knight, Charles A."        , BofEd_3
+State Board Of Education                              ,        5,      , "Grady, Colleen D."         , BofEd_1
+State Board Of Education                              ,        5,      , "Hovis, Robin C."           , BofEd_2
+State Board Of Education                              ,        5,      , "Lepisto, Ed "              , BofEd_3
+State Board Of Education                              ,        6,      , "Cochran, Michael H."       , BofEd_1
+State Board Of Education                              ,        6,      , "Miller, Adam C."           , BofEd_2
+State Board Of Education                              ,        6,      , "Moyer, James "             , BofEd_3
+State Board Of Education                              ,        6,      , "Wallace, Mark "            , BofEd_4
+State Board Of Education                              ,        9,      , "Daubenmire, David "        , BofEd_1
+State Board Of Education                              ,        9,      , "Moore, William E."         , BofEd_2
+State Board Of Education                              ,        9,      , "Stewart, Jennifer "        , BofEd_3
+State Board Of Education                              ,       10,      , "Sonenshein, Jane "         , BofEd_1
+State Board Of Education                              ,       11,      , "Brown, Virgil E."          , BofEd_1
+State Board Of Education                              ,       11,      , "Corrigan, Christopher M."  , BofEd_2
+State Board Of Education                              ,       11,      , "Lesnick, Carole L."        , BofEd_3
+Chief Justice Of The Supreme Court 01/01              ,         ,      , "Connally, C. Ellen "       , SC_CJ1
+Chief Justice Of The Supreme Court 01/01              ,         ,      , "Moyer, Thomas J."          , SC_CJ2
+Justice Of The Ohio Supreme Court 01/01               ,         ,      , "Fuerst, Nancy A."          , SC_1_J1
+Justice Of The Ohio Supreme Court 01/01               ,         ,      , "Lanzinger, Judith Ann"     , SC_1_J2
+Justice Of The Ohio Supreme Court 01/02               ,         ,      , "Pfeifer, Paul E."          , SC_2_C1
+Justice Of The Ohio Supreme Court 12/31 Unexpired Term,         ,      , "O'Neill, William M."       , SC_3_C1
+Justice Of The Ohio Supreme Court 12/31 Unexpired Term,         ,      , "O'Donnell, Terrence "      , SC_3_C2
+Judge Of Court Of Appeals 01/01                       ,        8,      , "Kilbane, Mary Eileen "     , CofA1_1
+Judge Of Court Of Appeals 01/01                       ,        8,      , "Corrigan, Michael J."      , CofA1_2
+Judge Of Court Of Appeals 01/01                       ,       10,      , "Tootle, Thomas "           , CofA1_1
+Judge Of Court Of Appeals 01/01                       ,       10,      , "French, Judith "           , CofA1_2
+Judge Of Court Of Appeals 01/02                       ,        8,      , "Kilbane, Anne L."          , CofA2_1
+Judge Of Court Of Appeals 01/02                       ,       10,      , "O'Neill, Deborah P."       , CofA2_1
+Judge Of Court Of Appeals 01/02                       ,       10,      , "Mcgrath, Pat "             , CofA2_2
+Judge Of Court Of Appeals 01/03                       ,        8,      , "Mcmonagle, Christine T."   , CofA3_1
+Judge Of Court Of Appeals 01/03                       ,       10,      , "Brown, Susan "             , CofA3_2
+Judge Of Court Of Appeals 02/09                       ,        1,      , "Hendon, Sylvia Sieve"      , CofA4_2
+Judge Of Court Of Appeals 02/09                       ,        2,      , "Patzer, Jeff "             , CofA4_1
+Judge Of Court Of Appeals 02/09                       ,        2,      , "Donovan, Mary E."          , CofA4_2
+Judge Of Court Of Appeals 02/09                       ,        3,      , "Rogers, Richard "          , CofA4_2
+Judge Of Court Of Appeals 02/09                       ,        4,      , "Bennett, Douglas J."       , CofA4_1
+Judge Of Court Of Appeals 02/09                       ,        4,      , "Mcfarland, Matthew W."     , CofA4_2
+Judge Of Court Of Appeals 02/09                       ,        5,      , "Farmer, Sheila G."         , CofA4_2
+Judge Of Court Of Appeals 02/09                       ,        6,      , "Skow, William J."          , CofA4_1
+Judge Of Court Of Appeals 02/09                       ,        6,      , "Christiansen, Robert "     , CofA4_2
+Judge Of Court Of Appeals 02/09                       ,        7,      , "Donofrio, Gene "           , CofA4_1
+Judge Of Court Of Appeals 02/09                       ,        8,      , "Dyke, Ann "                , CofA4_1
+Judge Of Court Of Appeals 02/09                       ,        9,      , "Moore, Carla D."           , CofA4_1
+Judge Of Court Of Appeals 02/09                       ,        9,      , "Boyle, Edna J."            , CofA4_2
+Judge Of Court Of Appeals 02/09                       ,        9,      , "Wellemeyer, William D"     , CofA4_3
+Judge Of Court Of Appeals 02/09                       ,       10,      , "Klatt, William A."         , CofA4_2
+Judge Of Court Of Appeals 02/09                       ,       11,      , "Trapp, Mary Jane"          , CofA4_1
+Judge Of Court Of Appeals 02/09                       ,       11,      , "O'Toole, Colleen Mary"     , CofA4_2
+Judge Of Court Of Appeals 02/09                       ,       12,      , "Bressler, H. J."           , CofA4_2
+Judge Of Court Of Appeals 02/10                       ,        2,      , "Brogan, James A."          , CofA5_1
+Judge Of Court Of Appeals 02/10                       ,        5,      , "Edwards, Julie A."         , CofA5_2
+Judge Of Court Of Appeals 02/10                       ,        6,      , "Pietrykowski, Mark L."     , CofA5_1
+Judge Of Court Of Appeals 02/10                       ,        9,      , "Belfance, Eve "            , CofA5_1
+Judge Of Court Of Appeals 02/10                       ,        9,      , "Carr, Donna J."            , CofA5_2
+Judge Of Court Of Appeals 02/10                       ,       12,      , "Young, William W."         , CofA5_2
+Judge Of Court Of Appeals 02/11                       ,        2,      , "Fain, Mike "               , CofA6_1
+Judge Of Court Of Appeals 02/11                       ,        3,      , "Shaw, Stephen R."          , CofA6_2
+Judge Of Court Of Appeals 02/11                       ,        9,      , "Matz, Deborah S."          , CofA6_1
+Judge Of Court Of Appeals 02/11                       ,        9,      , "Whitmore, Beth "           , CofA6_2
+Statewide Issue 1 YES                                 ,         ,      ,                             , ISSUE1_Yes
+Statewide Issue 1 NO                                  ,         ,      ,                             , ISSUE1_NO
