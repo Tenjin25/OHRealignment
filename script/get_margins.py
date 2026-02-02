@@ -3,7 +3,7 @@ import json
 data = json.load(open('data/ohio_election_results.json'))
 
 # Get presidential margins for key counties across years
-counties = ['Mahoning', 'Trumbull', 'Franklin', 'Cuyahoga']
+counties = ['Mahoning', 'Trumbull', 'Franklin', 'Cuyahoga', 'Hamilton', 'Butler']
 years = ['2008', '2012', '2016', '2020', '2024']
 
 print("\nChecking for 2020 data specifically:")
