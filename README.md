@@ -230,12 +230,12 @@ margin_pct = (winner_votes - runner_up_votes) / total_votes * 100
 ### Competitiveness Categories
 15 levels based on margin percentage:
 - **Annihilation**: ≥40%
-- **Dominant**: 30-40%
-- **Stronghold**: 20-30%
-- **Safe**: 10-20%
-- **Likely**: 5.5-10%
-- **Lean**: 1-5.5%
-- **Tilt**: 0.5-1%
+- **Dominant**: 30.00-39.99%
+- **Stronghold**: 20.00-29.99%
+- **Safe**: 10.00-19.99%
+- **Likely**: 5.50-9.99%
+- **Lean**: 1.00-5.49%
+- **Tilt**: 0.50-0.99%
 - **Tossup**: <0.5%
 
 ## 📝 Notable Data Challenges Solved
