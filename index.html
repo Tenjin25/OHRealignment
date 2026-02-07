@@ -1872,19 +1872,19 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
       if (marginPct >= 40) {
         compLabel = winner === 'Republican' ? "Annihilation Republican (40%+)" : "Annihilation Democratic (40%+)";
         compColor = winner === 'Republican' ? '#450a0a' : '#0c1d56';
-      } else if (marginPct >= 30 && marginPct <= 39.99) {
+      } else if (marginPct >= 30.00 && marginPct <= 39.99) {
         compLabel = winner === 'Republican' ? "Dominant Republican (30.00-39.99%)" : "Dominant Democratic (30.00-39.99%)";
         compColor = winner === 'Republican' ? '#7f1d1d' : '#1e3a8a';
-      } else if (marginPct >= 20 && marginPct <= 29.99) {
+      } else if (marginPct >= 20.00 && marginPct <= 29.99) {
         compLabel = winner === 'Republican' ? "Stronghold Republican (20.00-29.99%)" : "Stronghold Democratic (20.00-29.99%)";
         compColor = winner === 'Republican' ? '#991b1b' : '#1e40af';
-      } else if (marginPct >= 10 && marginPct <= 19.99) {
+      } else if (marginPct >= 10.00 && marginPct <= 19.99) {
         compLabel = winner === 'Republican' ? "Safe Republican (10.00-19.99%)" : "Safe Democratic (10.00-19.99%)";
         compColor = winner === 'Republican' ? '#dc2626' : '#3b82f6';
       } else if (marginPct >= 5.50 && marginPct <= 9.99) {
-        compLabel = winner === 'Republican' ? "Likely Republican (5.50-9.99%)" : "Likely Democratic (5.51-9.99%)";
+        compLabel = winner === 'Republican' ? "Likely Republican (5.50-9.99%)" : "Likely Democratic (5.50-9.99%)";
         compColor = winner === 'Republican' ? '#ef4444' : '#60a5fa';
-      } else if (marginPct >= 1 && marginPct <= 5.49) {
+      } else if (marginPct >= 1.00 && marginPct <= 5.49) {
         compLabel = winner === 'Republican' ? "Lean Republican (1.00-5.49%)" : "Lean Democratic (1.00-5.49%)";
         compColor = winner === 'Republican' ? '#f87171' : '#93c5fd';
       } else if (marginPct >= 0.50 && marginPct <= 0.99) {
@@ -2894,9 +2894,9 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
               competitiveness = winner === 'Republican' ? 'Stronghold Republican' : 'Stronghold Democratic';
             } else if (marginPct >= 10 && marginPct <= 19.99) {
               competitiveness = winner === 'Republican' ? 'Safe Republican' : 'Safe Democratic';
-            } else if (marginPct >= 5.51 && marginPct <= 9.99) {
+            } else if (marginPct >= 5.5 && marginPct <= 9.99) {
               competitiveness = winner === 'Republican' ? 'Likely Republican' : 'Likely Democratic';
-            } else if (marginPct >= 1 && marginPct <= 5.5) {
+            } else if (marginPct >= 1 && marginPct <= 5.49) {
               competitiveness = winner === 'Republican' ? 'Lean Republican' : 'Lean Democratic';
             } else if (marginPct >= 0.51 && marginPct <= 0.99) {
               competitiveness = winner === 'Republican' ? 'Tilt Republican' : 'Tilt Democratic';
@@ -3281,6 +3281,23 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
         const marginPct = Math.abs(repPct - demPct);
         // Use accessibility colors if colorblind mode is active
         const color = isColorblindMode ? getAccessibilityColor(marginPct, winner) : categoryColorForMargin(marginPct, winner);
+        // Debug: Log normalization for Defiance County in 2018 governor
+        if (row.county && countyName.includes('DEFIANCE') && contestType === 'governor' && year == 2018) {
+          // Find all geojson county names for comparison
+          let geoNames = [];
+          if (window.countiesData && window.countiesData.features) {
+            geoNames = window.countiesData.features.map(f => {
+              const p = f.properties || {};
+              return normalizeCountyName(p.NAME20 || p.County || p.COUNTYNAME || p.NAME || p.name || '');
+            });
+          }
+          console.log('[DEBUG] Defiance normalization:', {
+            rowCounty: row.county,
+            normalizedRowCounty: countyName,
+            geoNames: geoNames,
+            found: geoNames.includes(countyName)
+          });
+        }
         // Match on normalized, uppercase name from GeoJSON (NAME20 field)
         expr.push(['==', ['upcase', ['get', 'NAME20']], countyName]);
         expr.push(color);
