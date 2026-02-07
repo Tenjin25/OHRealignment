@@ -3281,23 +3281,6 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
         const marginPct = Math.abs(repPct - demPct);
         // Use accessibility colors if colorblind mode is active
         const color = isColorblindMode ? getAccessibilityColor(marginPct, winner) : categoryColorForMargin(marginPct, winner);
-        // Debug: Log normalization for Defiance County in 2018 governor
-        if (row.county && countyName.includes('DEFIANCE') && contestType === 'governor' && year == 2018) {
-          // Find all geojson county names for comparison
-          let geoNames = [];
-          if (window.countiesData && window.countiesData.features) {
-            geoNames = window.countiesData.features.map(f => {
-              const p = f.properties || {};
-              return normalizeCountyName(p.NAME20 || p.County || p.COUNTYNAME || p.NAME || p.name || '');
-            });
-          }
-          console.log('[DEBUG] Defiance normalization:', {
-            rowCounty: row.county,
-            normalizedRowCounty: countyName,
-            geoNames: geoNames,
-            found: geoNames.includes(countyName)
-          });
-        }
         // Match on normalized, uppercase name from GeoJSON (NAME20 field)
         expr.push(['==', ['upcase', ['get', 'NAME20']], countyName]);
         expr.push(color);
