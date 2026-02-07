@@ -3153,16 +3153,16 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
     }
 
     function categoryColorForMargin(marginPct, winner) {
-      // NC map criteria: exact same thresholds and colors
+      // NC map criteria: exact same thresholds and colors, but use < for upper bounds to avoid float issues
       if (marginPct >= 40) {
         return winner === 'R' ? '#67000d' : '#08306b'; // Annihilation
-      } else if (marginPct >= 30 && marginPct <= 39.99) {
+      } else if (marginPct >= 30 && marginPct < 40) {
         return winner === 'R' ? '#a50f15' : '#08519c'; // Dominant
-      } else if (marginPct >= 20 && marginPct <= 29.99) {
+      } else if (marginPct >= 20 && marginPct < 30) {
         return winner === 'R' ? '#cb181d' : '#3182bd'; // Stronghold
-      } else if (marginPct >= 10 && marginPct <= 19.99) {
+      } else if (marginPct >= 10 && marginPct < 20) {
         return winner === 'R' ? '#ef3b2c' : '#6baed6'; // Safe
-      } else if (marginPct > 5.5 && marginPct <= 9.99) {
+      } else if (marginPct > 5.5 && marginPct < 10) {
         return winner === 'R' ? '#fb6a4a' : '#9ecae1'; // Likely
       } else if (marginPct > 0.99 && marginPct <= 5.5) {
         return winner === 'R' ? '#fcae91' : '#c6dbef'; // Lean
