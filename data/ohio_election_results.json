@@ -19,7 +19,7 @@
       2024
     ],
     "data_source": "Ohio Secretary of State / OpenElections",
-    "generated_date": "2026-02-02"
+    "generated_date": "2026-02-12"
   },
   "results_by_year": {
     "2000": {
@@ -11167,15 +11167,15 @@
           }
         }
       },
-      "Treasure of State": {
-        "Treasure of State": {
-          "contest_name": "Treasure of State",
-          "office": "Treasure of State",
+      "Treasurer of State": {
+        "Treasurer of State": {
+          "contest_name": "Treasurer of State",
+          "office": "Treasurer of State",
           "district": "",
           "results": {
             "Adams": {
               "county": "Adams",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11196,7 +11196,7 @@
             },
             "Allen": {
               "county": "Allen",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11217,7 +11217,7 @@
             },
             "Ashland": {
               "county": "Ashland",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11238,7 +11238,7 @@
             },
             "Ashtabula": {
               "county": "Ashtabula",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11259,7 +11259,7 @@
             },
             "Athens": {
               "county": "Athens",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11280,7 +11280,7 @@
             },
             "Auglaize": {
               "county": "Auglaize",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11301,7 +11301,7 @@
             },
             "Belmont": {
               "county": "Belmont",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11322,7 +11322,7 @@
             },
             "Brown": {
               "county": "Brown",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11343,7 +11343,7 @@
             },
             "Butler": {
               "county": "Butler",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11364,7 +11364,7 @@
             },
             "Carroll": {
               "county": "Carroll",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11385,7 +11385,7 @@
             },
             "Champaign": {
               "county": "Champaign",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11406,7 +11406,7 @@
             },
             "Clark": {
               "county": "Clark",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11427,7 +11427,7 @@
             },
             "Clermont": {
               "county": "Clermont",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11448,7 +11448,7 @@
             },
             "Clinton": {
               "county": "Clinton",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11469,7 +11469,7 @@
             },
             "Columbiana": {
               "county": "Columbiana",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11490,7 +11490,7 @@
             },
             "Coshocton": {
               "county": "Coshocton",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11511,7 +11511,7 @@
             },
             "Crawford": {
               "county": "Crawford",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11532,7 +11532,7 @@
             },
             "Cuyahoga": {
               "county": "Cuyahoga",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11553,7 +11553,7 @@
             },
             "Darke": {
               "county": "Darke",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11574,7 +11574,7 @@
             },
             "Defiance": {
               "county": "Defiance",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11595,7 +11595,7 @@
             },
             "Delaware": {
               "county": "Delaware",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11616,7 +11616,7 @@
             },
             "Erie": {
               "county": "Erie",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11637,7 +11637,7 @@
             },
             "Fairfield": {
               "county": "Fairfield",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11658,7 +11658,7 @@
             },
             "Fayette": {
               "county": "Fayette",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11679,7 +11679,7 @@
             },
             "Franklin": {
               "county": "Franklin",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11700,7 +11700,7 @@
             },
             "Fulton": {
               "county": "Fulton",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11721,7 +11721,7 @@
             },
             "Gallia": {
               "county": "Gallia",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11742,7 +11742,7 @@
             },
             "Geauga": {
               "county": "Geauga",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11763,7 +11763,7 @@
             },
             "Greene": {
               "county": "Greene",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11784,7 +11784,7 @@
             },
             "Guernsey": {
               "county": "Guernsey",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11805,7 +11805,7 @@
             },
             "Hamilton": {
               "county": "Hamilton",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11826,7 +11826,7 @@
             },
             "Hancock": {
               "county": "Hancock",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11847,7 +11847,7 @@
             },
             "Hardin": {
               "county": "Hardin",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11868,7 +11868,7 @@
             },
             "Harrison": {
               "county": "Harrison",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11889,7 +11889,7 @@
             },
             "Henry": {
               "county": "Henry",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11910,7 +11910,7 @@
             },
             "Highland": {
               "county": "Highland",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11931,7 +11931,7 @@
             },
             "Hocking": {
               "county": "Hocking",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11952,7 +11952,7 @@
             },
             "Holmes": {
               "county": "Holmes",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11973,7 +11973,7 @@
             },
             "Huron": {
               "county": "Huron",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -11994,7 +11994,7 @@
             },
             "Jackson": {
               "county": "Jackson",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12015,7 +12015,7 @@
             },
             "Jefferson": {
               "county": "Jefferson",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12036,7 +12036,7 @@
             },
             "Knox": {
               "county": "Knox",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12057,7 +12057,7 @@
             },
             "Lake": {
               "county": "Lake",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12078,7 +12078,7 @@
             },
             "Lawrence": {
               "county": "Lawrence",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12099,7 +12099,7 @@
             },
             "Licking": {
               "county": "Licking",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12120,7 +12120,7 @@
             },
             "Logan": {
               "county": "Logan",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12141,7 +12141,7 @@
             },
             "Lorain": {
               "county": "Lorain",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12162,7 +12162,7 @@
             },
             "Lucas": {
               "county": "Lucas",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12183,7 +12183,7 @@
             },
             "Madison": {
               "county": "Madison",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12204,7 +12204,7 @@
             },
             "Mahoning": {
               "county": "Mahoning",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12225,7 +12225,7 @@
             },
             "Marion": {
               "county": "Marion",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12246,7 +12246,7 @@
             },
             "Medina": {
               "county": "Medina",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12267,7 +12267,7 @@
             },
             "Meigs": {
               "county": "Meigs",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12288,7 +12288,7 @@
             },
             "Mercer": {
               "county": "Mercer",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12309,7 +12309,7 @@
             },
             "Miami": {
               "county": "Miami",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12330,7 +12330,7 @@
             },
             "Monroe": {
               "county": "Monroe",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12351,7 +12351,7 @@
             },
             "Montgomery": {
               "county": "Montgomery",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12372,7 +12372,7 @@
             },
             "Morgan": {
               "county": "Morgan",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12393,7 +12393,7 @@
             },
             "Morrow": {
               "county": "Morrow",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12414,7 +12414,7 @@
             },
             "Muskingum": {
               "county": "Muskingum",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12435,7 +12435,7 @@
             },
             "Noble": {
               "county": "Noble",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12456,7 +12456,7 @@
             },
             "Ottawa": {
               "county": "Ottawa",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12477,7 +12477,7 @@
             },
             "Paulding": {
               "county": "Paulding",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12498,7 +12498,7 @@
             },
             "Perry": {
               "county": "Perry",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12519,7 +12519,7 @@
             },
             "Pickaway": {
               "county": "Pickaway",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12540,7 +12540,7 @@
             },
             "Pike": {
               "county": "Pike",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12561,7 +12561,7 @@
             },
             "Portage": {
               "county": "Portage",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12582,7 +12582,7 @@
             },
             "Preble": {
               "county": "Preble",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12603,7 +12603,7 @@
             },
             "Putnam": {
               "county": "Putnam",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12624,7 +12624,7 @@
             },
             "Richland": {
               "county": "Richland",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12645,7 +12645,7 @@
             },
             "Ross": {
               "county": "Ross",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12666,7 +12666,7 @@
             },
             "Sandusky": {
               "county": "Sandusky",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12687,7 +12687,7 @@
             },
             "Scioto": {
               "county": "Scioto",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12708,7 +12708,7 @@
             },
             "Seneca": {
               "county": "Seneca",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12729,7 +12729,7 @@
             },
             "Shelby": {
               "county": "Shelby",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12750,7 +12750,7 @@
             },
             "Stark": {
               "county": "Stark",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12771,7 +12771,7 @@
             },
             "Summit": {
               "county": "Summit",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12792,7 +12792,7 @@
             },
             "Trumbull": {
               "county": "Trumbull",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12813,7 +12813,7 @@
             },
             "Tuscarawas": {
               "county": "Tuscarawas",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12834,7 +12834,7 @@
             },
             "Union": {
               "county": "Union",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12855,7 +12855,7 @@
             },
             "Van Wert": {
               "county": "Van Wert",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12876,7 +12876,7 @@
             },
             "Vinton": {
               "county": "Vinton",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12897,7 +12897,7 @@
             },
             "Warren": {
               "county": "Warren",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12918,7 +12918,7 @@
             },
             "Washington": {
               "county": "Washington",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12939,7 +12939,7 @@
             },
             "Wayne": {
               "county": "Wayne",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12960,7 +12960,7 @@
             },
             "Williams": {
               "county": "Williams",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -12981,7 +12981,7 @@
             },
             "Wood": {
               "county": "Wood",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -13002,7 +13002,7 @@
             },
             "Wyandot": {
               "county": "Wyandot",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2002",
               "dem_candidate": "Mary Boyle",
               "rep_candidate": "Joseph Deters",
@@ -30572,15 +30572,15 @@
           }
         }
       },
-      "Treasure of State": {
-        "Treasure of State - District 2.0": {
-          "contest_name": "Treasure of State - District 2.0",
-          "office": "Treasure of State",
+      "Treasurer of State": {
+        "Treasurer of State - District 2.0": {
+          "contest_name": "Treasurer of State - District 2.0",
+          "office": "Treasurer of State",
           "district": "2.0",
           "results": {
             "Adams": {
               "county": "Adams",
-              "contest": "Treasure of State - District 2.0",
+              "contest": "Treasurer of State - District 2.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30601,7 +30601,7 @@
             },
             "Brown": {
               "county": "Brown",
-              "contest": "Treasure of State - District 2.0",
+              "contest": "Treasurer of State - District 2.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30622,7 +30622,7 @@
             },
             "Clermont": {
               "county": "Clermont",
-              "contest": "Treasure of State - District 2.0",
+              "contest": "Treasurer of State - District 2.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30643,7 +30643,7 @@
             },
             "Hamilton": {
               "county": "Hamilton",
-              "contest": "Treasure of State - District 2.0",
+              "contest": "Treasurer of State - District 2.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30664,7 +30664,7 @@
             },
             "Pike": {
               "county": "Pike",
-              "contest": "Treasure of State - District 2.0",
+              "contest": "Treasurer of State - District 2.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30685,7 +30685,7 @@
             },
             "Scioto": {
               "county": "Scioto",
-              "contest": "Treasure of State - District 2.0",
+              "contest": "Treasurer of State - District 2.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30706,7 +30706,7 @@
             },
             "Warren": {
               "county": "Warren",
-              "contest": "Treasure of State - District 2.0",
+              "contest": "Treasurer of State - District 2.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30727,14 +30727,14 @@
             }
           }
         },
-        "Treasure of State - District 4.0": {
-          "contest_name": "Treasure of State - District 4.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 4.0": {
+          "contest_name": "Treasurer of State - District 4.0",
+          "office": "Treasurer of State",
           "district": "4.0",
           "results": {
             "Allen": {
               "county": "Allen",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30755,7 +30755,7 @@
             },
             "Auglaize": {
               "county": "Auglaize",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30776,7 +30776,7 @@
             },
             "Champaign": {
               "county": "Champaign",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30797,7 +30797,7 @@
             },
             "Hancock": {
               "county": "Hancock",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30818,7 +30818,7 @@
             },
             "Hardin": {
               "county": "Hardin",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30839,7 +30839,7 @@
             },
             "Logan": {
               "county": "Logan",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30860,7 +30860,7 @@
             },
             "Marion": {
               "county": "Marion",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30881,7 +30881,7 @@
             },
             "Morrow": {
               "county": "Morrow",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30902,7 +30902,7 @@
             },
             "Richland": {
               "county": "Richland",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30923,7 +30923,7 @@
             },
             "Shelby": {
               "county": "Shelby",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30944,7 +30944,7 @@
             },
             "Wyandot": {
               "county": "Wyandot",
-              "contest": "Treasure of State - District 4.0",
+              "contest": "Treasurer of State - District 4.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30965,14 +30965,14 @@
             }
           }
         },
-        "Treasure of State - District 16.0": {
-          "contest_name": "Treasure of State - District 16.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 16.0": {
+          "contest_name": "Treasurer of State - District 16.0",
+          "office": "Treasurer of State",
           "district": "16.0",
           "results": {
             "Ashland": {
               "county": "Ashland",
-              "contest": "Treasure of State - District 16.0",
+              "contest": "Treasurer of State - District 16.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -30993,7 +30993,7 @@
             },
             "Medina": {
               "county": "Medina",
-              "contest": "Treasure of State - District 16.0",
+              "contest": "Treasurer of State - District 16.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31014,7 +31014,7 @@
             },
             "Stark": {
               "county": "Stark",
-              "contest": "Treasure of State - District 16.0",
+              "contest": "Treasurer of State - District 16.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31035,7 +31035,7 @@
             },
             "Wayne": {
               "county": "Wayne",
-              "contest": "Treasure of State - District 16.0",
+              "contest": "Treasurer of State - District 16.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31056,14 +31056,14 @@
             }
           }
         },
-        "Treasure of State - District 5.0": {
-          "contest_name": "Treasure of State - District 5.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 5.0": {
+          "contest_name": "Treasurer of State - District 5.0",
+          "office": "Treasurer of State",
           "district": "5.0",
           "results": {
             "Ashland": {
               "county": "Ashland",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31084,7 +31084,7 @@
             },
             "Crawford": {
               "county": "Crawford",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31105,7 +31105,7 @@
             },
             "Defiance": {
               "county": "Defiance",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31126,7 +31126,7 @@
             },
             "Fulton": {
               "county": "Fulton",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31147,7 +31147,7 @@
             },
             "Henry": {
               "county": "Henry",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31168,7 +31168,7 @@
             },
             "Huron": {
               "county": "Huron",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31189,7 +31189,7 @@
             },
             "Lucas": {
               "county": "Lucas",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31210,7 +31210,7 @@
             },
             "Mercer": {
               "county": "Mercer",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31231,7 +31231,7 @@
             },
             "Paulding": {
               "county": "Paulding",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31252,7 +31252,7 @@
             },
             "Putnam": {
               "county": "Putnam",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31273,7 +31273,7 @@
             },
             "Sandusky": {
               "county": "Sandusky",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31294,7 +31294,7 @@
             },
             "Seneca": {
               "county": "Seneca",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31315,7 +31315,7 @@
             },
             "Van Wert": {
               "county": "Van Wert",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31336,7 +31336,7 @@
             },
             "Williams": {
               "county": "Williams",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31357,7 +31357,7 @@
             },
             "Wood": {
               "county": "Wood",
-              "contest": "Treasure of State - District 5.0",
+              "contest": "Treasurer of State - District 5.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31378,14 +31378,14 @@
             }
           }
         },
-        "Treasure of State - District 14.0": {
-          "contest_name": "Treasure of State - District 14.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 14.0": {
+          "contest_name": "Treasurer of State - District 14.0",
+          "office": "Treasurer of State",
           "district": "14.0",
           "results": {
             "Ashtabula": {
               "county": "Ashtabula",
-              "contest": "Treasure of State - District 14.0",
+              "contest": "Treasurer of State - District 14.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31406,7 +31406,7 @@
             },
             "Cuyahoga": {
               "county": "Cuyahoga",
-              "contest": "Treasure of State - District 14.0",
+              "contest": "Treasurer of State - District 14.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31427,7 +31427,7 @@
             },
             "Geauga": {
               "county": "Geauga",
-              "contest": "Treasure of State - District 14.0",
+              "contest": "Treasurer of State - District 14.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31448,7 +31448,7 @@
             },
             "Lake": {
               "county": "Lake",
-              "contest": "Treasure of State - District 14.0",
+              "contest": "Treasurer of State - District 14.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31469,7 +31469,7 @@
             },
             "Portage": {
               "county": "Portage",
-              "contest": "Treasure of State - District 14.0",
+              "contest": "Treasurer of State - District 14.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31490,7 +31490,7 @@
             },
             "Summit": {
               "county": "Summit",
-              "contest": "Treasure of State - District 14.0",
+              "contest": "Treasurer of State - District 14.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31511,7 +31511,7 @@
             },
             "Trumbull": {
               "county": "Trumbull",
-              "contest": "Treasure of State - District 14.0",
+              "contest": "Treasurer of State - District 14.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31532,14 +31532,14 @@
             }
           }
         },
-        "Treasure of State - District 6.0": {
-          "contest_name": "Treasure of State - District 6.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 6.0": {
+          "contest_name": "Treasurer of State - District 6.0",
+          "office": "Treasurer of State",
           "district": "6.0",
           "results": {
             "Athens": {
               "county": "Athens",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31560,7 +31560,7 @@
             },
             "Belmont": {
               "county": "Belmont",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31581,7 +31581,7 @@
             },
             "Columbiana": {
               "county": "Columbiana",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31602,7 +31602,7 @@
             },
             "Gallia": {
               "county": "Gallia",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31623,7 +31623,7 @@
             },
             "Jefferson": {
               "county": "Jefferson",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31644,7 +31644,7 @@
             },
             "Lawrence": {
               "county": "Lawrence",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31665,7 +31665,7 @@
             },
             "Mahoning": {
               "county": "Mahoning",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31686,7 +31686,7 @@
             },
             "Meigs": {
               "county": "Meigs",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31707,7 +31707,7 @@
             },
             "Monroe": {
               "county": "Monroe",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31728,7 +31728,7 @@
             },
             "Noble": {
               "county": "Noble",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31749,7 +31749,7 @@
             },
             "Scioto": {
               "county": "Scioto",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31770,7 +31770,7 @@
             },
             "Washington": {
               "county": "Washington",
-              "contest": "Treasure of State - District 6.0",
+              "contest": "Treasurer of State - District 6.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31791,14 +31791,14 @@
             }
           }
         },
-        "Treasure of State - District 18.0": {
-          "contest_name": "Treasure of State - District 18.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 18.0": {
+          "contest_name": "Treasurer of State - District 18.0",
+          "office": "Treasurer of State",
           "district": "18.0",
           "results": {
             "Athens": {
               "county": "Athens",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31819,7 +31819,7 @@
             },
             "Belmont": {
               "county": "Belmont",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31840,7 +31840,7 @@
             },
             "Carroll": {
               "county": "Carroll",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31861,7 +31861,7 @@
             },
             "Coshocton": {
               "county": "Coshocton",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31882,7 +31882,7 @@
             },
             "Guernsey": {
               "county": "Guernsey",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31903,7 +31903,7 @@
             },
             "Harrison": {
               "county": "Harrison",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31924,7 +31924,7 @@
             },
             "Hocking": {
               "county": "Hocking",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31945,7 +31945,7 @@
             },
             "Holmes": {
               "county": "Holmes",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31966,7 +31966,7 @@
             },
             "Jackson": {
               "county": "Jackson",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -31987,7 +31987,7 @@
             },
             "Knox": {
               "county": "Knox",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32008,7 +32008,7 @@
             },
             "Licking": {
               "county": "Licking",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32029,7 +32029,7 @@
             },
             "Morgan": {
               "county": "Morgan",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32050,7 +32050,7 @@
             },
             "Muskingum": {
               "county": "Muskingum",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32071,7 +32071,7 @@
             },
             "Ross": {
               "county": "Ross",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32092,7 +32092,7 @@
             },
             "Tuscarawas": {
               "county": "Tuscarawas",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32113,7 +32113,7 @@
             },
             "Vinton": {
               "county": "Vinton",
-              "contest": "Treasure of State - District 18.0",
+              "contest": "Treasurer of State - District 18.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32134,14 +32134,14 @@
             }
           }
         },
-        "Treasure of State - District 8.0": {
-          "contest_name": "Treasure of State - District 8.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 8.0": {
+          "contest_name": "Treasurer of State - District 8.0",
+          "office": "Treasurer of State",
           "district": "8.0",
           "results": {
             "Butler": {
               "county": "Butler",
-              "contest": "Treasure of State - District 8.0",
+              "contest": "Treasurer of State - District 8.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32162,7 +32162,7 @@
             },
             "Darke": {
               "county": "Darke",
-              "contest": "Treasure of State - District 8.0",
+              "contest": "Treasurer of State - District 8.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32183,7 +32183,7 @@
             },
             "Mercer": {
               "county": "Mercer",
-              "contest": "Treasure of State - District 8.0",
+              "contest": "Treasurer of State - District 8.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32204,7 +32204,7 @@
             },
             "Miami": {
               "county": "Miami",
-              "contest": "Treasure of State - District 8.0",
+              "contest": "Treasurer of State - District 8.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32225,7 +32225,7 @@
             },
             "Montgomery": {
               "county": "Montgomery",
-              "contest": "Treasure of State - District 8.0",
+              "contest": "Treasurer of State - District 8.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32246,7 +32246,7 @@
             },
             "Preble": {
               "county": "Preble",
-              "contest": "Treasure of State - District 8.0",
+              "contest": "Treasurer of State - District 8.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32267,14 +32267,14 @@
             }
           }
         },
-        "Treasure of State - District 1.0": {
-          "contest_name": "Treasure of State - District 1.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 1.0": {
+          "contest_name": "Treasurer of State - District 1.0",
+          "office": "Treasurer of State",
           "district": "1.0",
           "results": {
             "Butler": {
               "county": "Butler",
-              "contest": "Treasure of State - District 1.0",
+              "contest": "Treasurer of State - District 1.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32295,7 +32295,7 @@
             },
             "Hamilton": {
               "county": "Hamilton",
-              "contest": "Treasure of State - District 1.0",
+              "contest": "Treasurer of State - District 1.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32316,14 +32316,14 @@
             }
           }
         },
-        "Treasure of State - District 7.0": {
-          "contest_name": "Treasure of State - District 7.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 7.0": {
+          "contest_name": "Treasurer of State - District 7.0",
+          "office": "Treasurer of State",
           "district": "7.0",
           "results": {
             "Clark": {
               "county": "Clark",
-              "contest": "Treasure of State - District 7.0",
+              "contest": "Treasurer of State - District 7.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32344,7 +32344,7 @@
             },
             "Fairfield": {
               "county": "Fairfield",
-              "contest": "Treasure of State - District 7.0",
+              "contest": "Treasurer of State - District 7.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32365,7 +32365,7 @@
             },
             "Fayette": {
               "county": "Fayette",
-              "contest": "Treasure of State - District 7.0",
+              "contest": "Treasurer of State - District 7.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32386,7 +32386,7 @@
             },
             "Franklin": {
               "county": "Franklin",
-              "contest": "Treasure of State - District 7.0",
+              "contest": "Treasurer of State - District 7.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32407,7 +32407,7 @@
             },
             "Greene": {
               "county": "Greene",
-              "contest": "Treasure of State - District 7.0",
+              "contest": "Treasurer of State - District 7.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32428,7 +32428,7 @@
             },
             "Perry": {
               "county": "Perry",
-              "contest": "Treasure of State - District 7.0",
+              "contest": "Treasurer of State - District 7.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32449,7 +32449,7 @@
             },
             "Pickaway": {
               "county": "Pickaway",
-              "contest": "Treasure of State - District 7.0",
+              "contest": "Treasurer of State - District 7.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32470,7 +32470,7 @@
             },
             "Ross": {
               "county": "Ross",
-              "contest": "Treasure of State - District 7.0",
+              "contest": "Treasurer of State - District 7.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32491,14 +32491,14 @@
             }
           }
         },
-        "Treasure of State - District 3.0": {
-          "contest_name": "Treasure of State - District 3.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 3.0": {
+          "contest_name": "Treasurer of State - District 3.0",
+          "office": "Treasurer of State",
           "district": "3.0",
           "results": {
             "Clinton": {
               "county": "Clinton",
-              "contest": "Treasure of State - District 3.0",
+              "contest": "Treasurer of State - District 3.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32519,7 +32519,7 @@
             },
             "Highland": {
               "county": "Highland",
-              "contest": "Treasure of State - District 3.0",
+              "contest": "Treasurer of State - District 3.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32540,7 +32540,7 @@
             },
             "Montgomery": {
               "county": "Montgomery",
-              "contest": "Treasure of State - District 3.0",
+              "contest": "Treasurer of State - District 3.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32561,7 +32561,7 @@
             },
             "Warren": {
               "county": "Warren",
-              "contest": "Treasure of State - District 3.0",
+              "contest": "Treasurer of State - District 3.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32582,14 +32582,14 @@
             }
           }
         },
-        "Treasure of State - District 11.0": {
-          "contest_name": "Treasure of State - District 11.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 11.0": {
+          "contest_name": "Treasurer of State - District 11.0",
+          "office": "Treasurer of State",
           "district": "11.0",
           "results": {
             "Cuyahoga": {
               "county": "Cuyahoga",
-              "contest": "Treasure of State - District 11.0",
+              "contest": "Treasurer of State - District 11.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32610,14 +32610,14 @@
             }
           }
         },
-        "Treasure of State - District 10.0": {
-          "contest_name": "Treasure of State - District 10.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 10.0": {
+          "contest_name": "Treasurer of State - District 10.0",
+          "office": "Treasurer of State",
           "district": "10.0",
           "results": {
             "Cuyahoga": {
               "county": "Cuyahoga",
-              "contest": "Treasure of State - District 10.0",
+              "contest": "Treasurer of State - District 10.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32638,14 +32638,14 @@
             }
           }
         },
-        "Treasure of State - District 13.0": {
-          "contest_name": "Treasure of State - District 13.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 13.0": {
+          "contest_name": "Treasurer of State - District 13.0",
+          "office": "Treasurer of State",
           "district": "13.0",
           "results": {
             "Cuyahoga": {
               "county": "Cuyahoga",
-              "contest": "Treasure of State - District 13.0",
+              "contest": "Treasurer of State - District 13.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32666,7 +32666,7 @@
             },
             "Lorain": {
               "county": "Lorain",
-              "contest": "Treasure of State - District 13.0",
+              "contest": "Treasurer of State - District 13.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32687,7 +32687,7 @@
             },
             "Medina": {
               "county": "Medina",
-              "contest": "Treasure of State - District 13.0",
+              "contest": "Treasurer of State - District 13.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32708,7 +32708,7 @@
             },
             "Summit": {
               "county": "Summit",
-              "contest": "Treasure of State - District 13.0",
+              "contest": "Treasurer of State - District 13.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32729,14 +32729,14 @@
             }
           }
         },
-        "Treasure of State - District 12.0": {
-          "contest_name": "Treasure of State - District 12.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 12.0": {
+          "contest_name": "Treasurer of State - District 12.0",
+          "office": "Treasurer of State",
           "district": "12.0",
           "results": {
             "Delaware": {
               "county": "Delaware",
-              "contest": "Treasure of State - District 12.0",
+              "contest": "Treasurer of State - District 12.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32757,7 +32757,7 @@
             },
             "Franklin": {
               "county": "Franklin",
-              "contest": "Treasure of State - District 12.0",
+              "contest": "Treasurer of State - District 12.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32778,7 +32778,7 @@
             },
             "Licking": {
               "county": "Licking",
-              "contest": "Treasure of State - District 12.0",
+              "contest": "Treasurer of State - District 12.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32799,14 +32799,14 @@
             }
           }
         },
-        "Treasure of State - District 9.0": {
-          "contest_name": "Treasure of State - District 9.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 9.0": {
+          "contest_name": "Treasurer of State - District 9.0",
+          "office": "Treasurer of State",
           "district": "9.0",
           "results": {
             "Erie": {
               "county": "Erie",
-              "contest": "Treasure of State - District 9.0",
+              "contest": "Treasurer of State - District 9.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32827,7 +32827,7 @@
             },
             "Lorain": {
               "county": "Lorain",
-              "contest": "Treasure of State - District 9.0",
+              "contest": "Treasurer of State - District 9.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32848,7 +32848,7 @@
             },
             "Ottawa": {
               "county": "Ottawa",
-              "contest": "Treasure of State - District 9.0",
+              "contest": "Treasurer of State - District 9.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32869,14 +32869,14 @@
             }
           }
         },
-        "Treasure of State - District 15.0": {
-          "contest_name": "Treasure of State - District 15.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 15.0": {
+          "contest_name": "Treasurer of State - District 15.0",
+          "office": "Treasurer of State",
           "district": "15.0",
           "results": {
             "Franklin": {
               "county": "Franklin",
-              "contest": "Treasure of State - District 15.0",
+              "contest": "Treasurer of State - District 15.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32897,7 +32897,7 @@
             },
             "Madison": {
               "county": "Madison",
-              "contest": "Treasure of State - District 15.0",
+              "contest": "Treasurer of State - District 15.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32918,7 +32918,7 @@
             },
             "Union": {
               "county": "Union",
-              "contest": "Treasure of State - District 15.0",
+              "contest": "Treasurer of State - District 15.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32939,14 +32939,14 @@
             }
           }
         },
-        "Treasure of State": {
-          "contest_name": "Treasure of State",
-          "office": "Treasure of State",
+        "Treasurer of State": {
+          "contest_name": "Treasurer of State",
+          "office": "Treasurer of State",
           "district": "",
           "results": {
             "Hamilton": {
               "county": "Hamilton",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32967,7 +32967,7 @@
             },
             "Lucas": {
               "county": "Lucas",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -32988,7 +32988,7 @@
             },
             "Wyandot": {
               "county": "Wyandot",
-              "contest": "Treasure of State",
+              "contest": "Treasurer of State",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -33009,14 +33009,14 @@
             }
           }
         },
-        "Treasure of State - District 17.0": {
-          "contest_name": "Treasure of State - District 17.0",
-          "office": "Treasure of State",
+        "Treasurer of State - District 17.0": {
+          "contest_name": "Treasurer of State - District 17.0",
+          "office": "Treasurer of State",
           "district": "17.0",
           "results": {
             "Mahoning": {
               "county": "Mahoning",
-              "contest": "Treasure of State - District 17.0",
+              "contest": "Treasurer of State - District 17.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -33037,7 +33037,7 @@
             },
             "Portage": {
               "county": "Portage",
-              "contest": "Treasure of State - District 17.0",
+              "contest": "Treasurer of State - District 17.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -33058,7 +33058,7 @@
             },
             "Summit": {
               "county": "Summit",
-              "contest": "Treasure of State - District 17.0",
+              "contest": "Treasurer of State - District 17.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",
@@ -33079,7 +33079,7 @@
             },
             "Trumbull": {
               "county": "Trumbull",
-              "contest": "Treasure of State - District 17.0",
+              "contest": "Treasurer of State - District 17.0",
               "year": "2006",
               "dem_candidate": "Richard Cordray",
               "rep_candidate": "Sandra O'Brien",

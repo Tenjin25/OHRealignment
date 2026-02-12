@@ -247,10 +247,10 @@
   <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6.5.0/turf.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
     <meta charset='utf-8'>
-    <title>Ohio Political Realignment Map (2000-2024)</title>
+    <title>Ohio Political Realignment Map (1992-2024)</title>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes'>
-    <meta property="og:title" content="OH Political Realignment Map (2000-2024)">
-    <meta property="og:description" content="Interactive visualization of Ohio's political trends from 2000 to 2024, showing county-level voting patterns.">
+    <meta property="og:title" content="OH Political Realignment Map (1992-2024)">
+    <meta property="og:description" content="Interactive visualization of Ohio's political trends from 1992 to 2024, showing county-level voting patterns.">
     <meta property="og:image" content="preview.png">
     <meta name="twitter:card" content="summary_large_image">
     <link href='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.css' rel='stylesheet'>
@@ -1396,7 +1396,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <!-- Main Controls Dropdown (Contest Selector) -->
     <div class="main-controls" id="main-controls">
         <div class="controls-header" style="display:flex;align-items:center;justify-content:space-between;">
-            <h3>🗳️ Ohio Election Contests</h3>
+            <h3>🗳️ Minnesota Election Contests</h3>
             <div style="display:flex;align-items:center;gap:8px;">
               <button class="minimize-btn" onclick="toggleMainControls()" id="controls-minimize-btn">−</button>
             </div>
@@ -1534,6 +1534,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'Auditor of State': 'state_auditor',
             'State Auditor': 'state_auditor',
             'Treasurer of State': 'state_treasurer',
+            'State Treasurer': 'state_treasurer',
             'Treasure of State': 'state_treasurer',
             'Justice of the Supreme Court': 'supreme_court'
           };
